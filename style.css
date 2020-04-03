@@ -11,6 +11,12 @@ Text Domain: global-styles
 Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
 */
 
+:root {
+	--wp--color--background: pink;
+	--wp--color--text: yellow;
+	--wp--typography--line-height: 5;
+}
+
 body {
 	box-sizing: border-box;
 	background-color: var(--wp--color--background, white);
