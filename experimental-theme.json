@@ -1,9 +1,9 @@
 {
 	"color": {
-		"background": "#fff",
-		"text": "#000"
+		"background": "var(--wp--preset--color--secondary)",
+		"text": "var(--wp--preset--color--primary)"
 	},
 	"typography": {
-		"line-height": 1.5
+		"line-height": "calc(1.4 * var(--wp--preset--font-size--small))"
 	}
 }
