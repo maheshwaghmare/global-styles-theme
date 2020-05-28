@@ -1,4 +1,9 @@
 {
+	"global": {
+		"styles": {
+			"background": "var(--wp--preset--color--tertiary)"
+		}
+	},
 	"core/heading/h1": {
 		"styles": {
 			"color": "var(--wp--preset--color--primary)",
