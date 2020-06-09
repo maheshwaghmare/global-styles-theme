@@ -2,7 +2,8 @@
 	"global": {
 		"styles": {
 			"color": {
-				"background": "var(--wp--preset--color--tertiary)"
+				"background": "var(--wp--preset--color--tertiary)",
+				"link": "hotpink"
 			}
 		}
 	},

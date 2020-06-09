@@ -37,17 +37,17 @@ function global_styles_theme_after_setup() {
 
 	add_theme_support( 'editor-font-sizes', array(
 		array(
-			'name' => __( 'Primary', 'global-styles' ),
+			'name' => __( 'Normal', 'global-styles' ),
 			'size' => 16,
 			'slug' => 'normal'
 		),
 		array(
-			'name' => __( 'Secondary', 'global-styles' ),
+			'name' => __( 'Big', 'global-styles' ),
 			'size' => 32,
 			'slug' => 'big'
 		),
 		array(
-			'name' => __( 'Tertiary', 'global-styles' ),
+			'name' => __( 'Huge', 'global-styles' ),
 			'size' => 60,
 			'slug' => 'huge'
 		)
