@@ -9,6 +9,9 @@
 		"features": {
 			"spacing": {
 				"custom": true
+			},
+			"lineHeight": {
+				"custom": true
 			}
 		}
 	},
