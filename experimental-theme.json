@@ -5,6 +5,11 @@
 				"background": "var(--wp--preset--color--tertiary)",
 				"link": "hotpink"
 			}
+		},
+		"features": {
+			"spacing": {
+				"custom": true
+			}
 		}
 	},
 	"core/heading/h1": {

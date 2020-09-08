@@ -53,7 +53,6 @@ function global_styles_theme_after_setup() {
 		)
 	) );
 
-	add_theme_support('experimental-custom-spacing');
 	add_theme_support('experimental-link-color');
 	add_theme_support('editor-styles');
 	add_editor_style('style.css');
