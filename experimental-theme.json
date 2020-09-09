@@ -44,6 +44,11 @@
 				"fontSize": "calc(1px * var(--wp--preset--font-size--normal))",
 				"lineHeight": 1.4
 			}
+		},
+		"features": {
+			"color": {
+				"link": true
+			}
 		}
 	}
 }
