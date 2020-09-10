@@ -12,6 +12,9 @@
 			},
 			"lineHeight": {
 				"custom": true
+			},
+			"color": {
+				"link": true
 			}
 		}
 	},
