@@ -6,15 +6,15 @@
 				"link": "hotpink"
 			}
 		},
-		"features": {
-			"spacing": {
-				"custom": true
-			},
-			"lineHeight": {
-				"custom": true
-			},
+		"settings": {
 			"color": {
 				"link": true
+			},
+			"spacing": {
+				"customPadding": true
+			},
+			"typography": {
+				"customLineHeight": true
 			}
 		}
 	},
@@ -48,7 +48,7 @@
 				"lineHeight": 1.4
 			}
 		},
-		"features": {
+		"settings": {
 			"color": {
 				"link": true
 			}
